@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  Lession01
+//  Lesson01
 //
-//  Created by Nguyen Xuan Hung on 4/4/18.
-//  Copyright © 2018 Nguyen Xuan Hung. All rights reserved.
+//  Created by admin on 4/7/18.
+//  Copyright © 2018 VIETTU. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -17,7 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    
     return YES;
 }
 
